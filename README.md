@@ -1,2 +1,2 @@
 # Langsmith_demo
-A small project on Langsmith
+A small project on Langsmith.
